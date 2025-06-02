@@ -1,0 +1,18 @@
+{
+  "name": "otpackage",
+  "version": "1.0.0",
+  "description": "Simple package for even numbers verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "even",
+    "utility"
+  ],
+  "author": "Olena Tolsta",
+  "license": "MIT",
+  "dependencies": {
+    "otpackage": "^1.0.0"
+  }
+}
